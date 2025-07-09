@@ -2,6 +2,12 @@
 
 A Java-based online bookstore system that demonstrates object-oriented programming concepts with book management, inventory control, and purchase processing for different types of books.
 
+## Screenshot
+
+
+![img1](imgs/image.png)
+
+
 ## Features
 
 - **Book Management**: Support for Paper Books, E-Books, and Showcase Books
